@@ -1,0 +1,7 @@
+Award doesnt => Player
+Swap player play matches to team play matches
+Add attendance to matches
+Add new table: HomeStadium(Home team, StaID)
+
+https://worldpopulationreview.com/countries/cities/united-kingdom
+https://www.footballwebpages.co.uk/premier-league/fixtures-results/2018-2019
