@@ -30,11 +30,13 @@ premier-league-db/
 ├── data/
 │   ├── Award.csv              # Award reference data
 │   ├── AwayTeam.csv           # Away team statistics
-│   └── Matches.csv            # Match records and results
+│   ├── Matches.csv            # Match records and results
+│   └── And More
 ├── sql/
 │   ├── Award.sql              # Award table schema
 │   ├── AwayTeam.sql           # Away team table schema
-│   └── Matches.sql            # Matches table schema
+│   ├── Matches.sql            # Matches table schema
+│   └── And More
 ├── docs/
 │   └── Query_idea.pdf         # Original requirements and EER diagram
 └── README.md                  # This file
